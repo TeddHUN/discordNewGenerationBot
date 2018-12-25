@@ -1,6 +1,6 @@
 {
-  "name": "Teddy",
-  "description": "Moderátor",
+  "name": "GTA New Generation",
+  "description": "Adminisztrátor",
   "version": "1.0.0",
   "main": "bot.js",
   "scripts": {
@@ -8,9 +8,6 @@
   },
   "dependencies": {
     "discord.js": "11.3.2",
-    "request": "2.81.0",
-    "ytdl-core" : "github:fent/node-ytdl-core#master",
     "node-opus" : "^0.2.1",
-    "simple-youtube-api": "^3.0.0"
   }
 }
